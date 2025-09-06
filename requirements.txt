@@ -1,3 +1,2 @@
 django
 streamlit
-python=3.11
